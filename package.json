@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/vikandagonzales/noosphere-backend#readme",
   "dependencies": {
-    "bcrypt": "^3.0.4"
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.18.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -1,0 +1,20 @@
+{
+  "name": "noosphere-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikandagonzales/noosphere-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikandagonzales/noosphere-backend/issues"
+  },
+  "homepage": "https://github.com/vikandagonzales/noosphere-backend#readme"
+}

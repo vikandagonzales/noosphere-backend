@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Back-end for https://github.com/vikandagonzales/noosphere",
   "main": "./src/app.js",
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vikandagonzales/noosphere-backend.git"
@@ -22,6 +21,9 @@
     "url": "https://github.com/vikandagonzales/noosphere-backend/issues"
   },
   "homepage": "https://github.com/vikandagonzales/noosphere-backend#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/app.js",

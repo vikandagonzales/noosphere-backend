@@ -1,4 +1,10 @@
-node_modules/
+# dependencies
+/node_modules
 package-lock.json
+
+# data
+/db/seeds.data
+
+# misc
+.DS_Store
 .env
-db/seeds.data/

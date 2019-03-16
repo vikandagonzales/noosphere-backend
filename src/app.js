@@ -15,6 +15,7 @@ app.use(bodyParser.json());
 
 // USER ROUTES
 app.use('/auth', require('./routes/auth'));
+app.use('/users', require('./routes/users'));
 
 // DEFAULT ROUTE
 app.use((req, res, next) => {

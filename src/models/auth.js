@@ -1,5 +1,5 @@
 const db = require('../../db');
-const guestsModel = require('./guests');
+const guestsModel = require('./users');
 
 const login = ({first_name, last_name}) => {
   return guestsModel.getOneByName(first_name, last_name)
